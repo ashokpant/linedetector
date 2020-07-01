@@ -32,8 +32,9 @@ $ cmake ../
 
 $ make
 
-$ ./linedetection -i ../img/squre.jpg
+$ ./linedetection_image -i ../img/squre.jpg
 
+$ ./linedetection_video
 You can see the simple usage of this detector in linedetection.cpp.
 
 If you have any question, contact me slslam@incorl.hanyang.ac.kr

@@ -1,0 +1,5 @@
+/home/ashok/Projects/oyster/experiments/linedetector/build/CMakeFiles/rebuild_cache.dir
+/home/ashok/Projects/oyster/experiments/linedetector/build/CMakeFiles/edit_cache.dir
+/home/ashok/Projects/oyster/experiments/linedetector/build/src/CMakeFiles/rebuild_cache.dir
+/home/ashok/Projects/oyster/experiments/linedetector/build/src/CMakeFiles/edit_cache.dir
+/home/ashok/Projects/oyster/experiments/linedetector/build/src/CMakeFiles/linedetection.dir
